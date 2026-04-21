@@ -1,27 +1,17 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                  VINAY — GITHUB PROFILE README                     -->
-<!-- Replace YOUR_USERNAME with your actual GitHub username             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 # Hi, I'm Vinay 👋
 
 ### Senior Full Stack Engineer · Open Source Contributor · AI-augmented Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/golla-vinay-kumar-29118b197/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gollavinay13@gmail.com)
 
 </div>
 
 ---
 
-I build **production-grade distributed systems** — from real-time GPS tracking platforms
-and IoT smart home stacks to AI-driven voice automation. I ship fast using AI IDEs
-(Cursor, Windsurf, Antigravity) with a focus on clean architecture, token efficiency,
-and solid test coverage.
+I build **production-grade distributed systems** — real-time GPS tracking, IoT smart home stacks, and AI-driven voice automation. I ship fast using AI IDEs (Cursor, Windsurf, Antigravity) with a focus on clean architecture, token efficiency, and solid test coverage.
 
 ---
 
@@ -32,7 +22,7 @@ and solid test coverage.
 | 📍 **GPS Tracking Server** | Teltonika · Node.js · WebSockets · PostgreSQL · Maps | Live |
 | 🏠 **Smart Home System** | IoT · React Native · MQTT · Redis | Active |
 | 🤖 **AI Phone Call Automation** | Twilio · OpenAI · Node.js | Active |
-| 🌐 **Open Source Contributions** | Various ecosystems | Ongoing |
+| 🌐 **Open Source Contributions** | JS / TS ecosystem | Ongoing |
 
 ---
 
@@ -67,8 +57,6 @@ and solid test coverage.
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-FF4154?style=flat)
-
-### ORMs
 ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
@@ -91,12 +79,12 @@ and solid test coverage.
 
 ## 🤖 AI-native development
 
-I treat AI as a first-class part of my engineering workflow:
+I treat AI as a first-class layer of my engineering workflow:
 
 - **AI IDEs**: Cursor, Windsurf, Antigravity for high-velocity development
-- **Token optimization**: prompt engineering for cost-efficient LLM usage in production
+- **Token optimization**: cost-efficient LLM usage in production environments
 - **Auto-testing**: AI-assisted unit test generation with Jest & Playwright
-- **Redis-layer caching**: LLM response caching strategies for latency + cost reduction
+- **Redis caching**: LLM response caching strategies for latency + cost reduction
 
 ---
 
@@ -104,11 +92,11 @@ I treat AI as a first-class part of my engineering workflow:
 
 <div align="center">
 
-![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gollavinaykumar&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gollavinaykumar&layout=compact&theme=default&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=gollavinaykumar&theme=default&hide_border=true)
 
 </div>
 
@@ -125,9 +113,8 @@ I treat AI as a first-class part of my engineering workflow:
 
 ## 📫 Connect with me
 
-- 💼 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
-- 🐦 Twitter/X: [@YOUR_HANDLE](https://twitter.com/YOUR_HANDLE)
-- 📧 Email: your@email.com
+- 💼 [LinkedIn — Golla Vinay Kumar](https://www.linkedin.com/in/golla-vinay-kumar-29118b197/)
+- 📧 [gollavinay13@gmail.com](mailto:gollavinay13@gmail.com)
 
 ---
 
