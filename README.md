@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Vinay 👋
 
-<!--
-**gollavinaykumar/gollavinaykumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer passionate about building real-world systems from scratch.
 
-Here are some ideas to get you started:
+💡 What I’m working on:
+- 📍 GPS Tracking Server (Teltonika devices, real-time tracking, maps, analytics)
+- 🏠 Smart Home System (IoT devices + mobile app control)
+- 🤖 AI Phone Call Automation (Twilio + OpenAI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack:
+- Frontend: Next.js, React, React Native
+- Backend: Node.js, Express, GraphQL
+- Database: PostgreSQL, MongoDB, Redis
+- DevOps: Docker, Traefik, AWS
+- Realtime: WebSockets, Socket.IO
+
+📚 Currently Learning:
+- Advanced System Design
+- AI/ML Engineering
+- High-performance backend architecture
+
+🎯 Goal:
+To build scalable, production-ready systems that solve real-world problems.
+
+📫 Reach me at: (your email here)
